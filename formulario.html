@@ -3,9 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./estilos2.css">
     <title>Formulario</title>
 </head>
 <body>
-    
+    <form>
+        <h1>Login</h1>
+        <section>
+            <label for="username"></label>
+            <input type="text" name="username" id="username" placeholder="Username" required>
+            <br>
+            <label for="password"></label>
+            <input type="text" name="password" id="password" placeholder="Password" required>
+        </section>
+
+        <section id="part2">
+            <input type="checkbox" id="remember" name="remember" checked>
+            <label for="remember">Remember me?</label>
+            <label for="forgot" id="forgot">Forgot your password?</label>
+        </section>
+
+        <section>
+            <button type="submit">Login</button>
+        </section>
+    </form>
+
+    <footer>
+        <h2>New here?</h2>
+        <a href="" id="sign">Sing up</a>
+    </footer>
 </body>
 </html>

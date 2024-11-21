@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: 100%;
+}
+
+form {
+    background-color:lightgray;
+    border-radius: 20px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+    color: gray;
+}
+
+img {
+    width: 15px;
+    height: 15px;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+#password {
+    margin-top: 7%;
+}
+
+#remember {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+
+button {
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 12%;
+    margin-bottom: 20%;
+    font-size: 20pt;
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: rgb(250, 138, 34);
+    border-radius: 10px;
+}
+
+#part2 {
+    font-size: 9pt;
+}
+
+#forgot {
+    margin-left: 12%;
+    color: rgb(250, 138, 34);
+}
+
+footer {
+    font-size: 10pt;
+    margin-top: 3%;
+    margin-left: 45%;
+    color: white;
+}
+
+#sign {
+    margin-top: -3.7%;
+    margin-left: 10%;
+    color: rgb(250, 138, 34);
+}
