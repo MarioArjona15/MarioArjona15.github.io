@@ -1,0 +1,105 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header img {
+    border-radius: 60px;
+    margin: 2% 47% 0%;
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 27pt;
+    font-weight: 900;
+}
+
+h2 {
+    text-transform: capitalize;
+    font-size: 25pt;
+    font-weight: 100;
+    color: rgb(99, 98, 98);
+}
+
+ul {
+    display:inline-flex;
+}
+
+i {
+    padding: 3px;
+}
+
+#github {
+    margin-left: 25%;
+}
+
+.fa-brands {
+    color: lightgray;
+}
+
+.bordes {
+    border-top: 5px solid lightgray ;
+    border-bottom: 2px solid lightgray;
+    margin-left: 30%;
+    margin-right: 34%;
+}
+
+p {
+    color:rgb(99, 98, 98) ;
+    margin-left: 30%;
+    margin-right: 34%;
+}
+
+button {
+    margin: 2% 45% 5%;
+    width: 200px;
+    height: 50px;
+    font-size: 16pt;
+    color: rgb(99, 98, 98) ;
+}
+
+h3 {
+    font-size: 25pt;
+}
+
+section {
+    margin-bottom: 3%;
+}
+
+h4 {
+    margin-left: 30%;
+}
+
+.n {
+    margin-bottom: 3%;
+}
+
+#github:hover {
+    color: black;
+}
+
+#twitter:hover {
+    color: deepskyblue;
+}
+
+#instagram:hover {
+    color: rgb(255, 0, 128);
+}
+
+#telegram:hover {
+    color: rgb(11, 115, 250);
+}
+
+#linkedin:hover {
+    color: rgb(49, 51, 151);
+}
+
+button:hover {
+    background-color: black; 
+    color: white;
+}
+
+h5 {
+    margin-left: 58%;
+    margin-right: 30%;
+}
