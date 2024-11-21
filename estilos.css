@@ -21,16 +21,12 @@ h2 {
     color: rgb(99, 98, 98);
 }
 
-ul {
-    display:inline-flex;
-}
-
 i {
     padding: 3px;
 }
 
 #github {
-    margin-left: 15%;
+    margin-left: 1%;
 }
 
 .fa-brands {
