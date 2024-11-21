@@ -74,20 +74,20 @@ h4 {
     color: black;
 }
 
-#twitter:hover {
-    color: deepskyblue;
+#youtube:hover {
+    color: rgb(224, 0, 0);
 }
 
 #instagram:hover {
     color: rgb(255, 0, 128);
 }
 
-#telegram:hover {
-    color: rgb(11, 115, 250);
+#spotify:hover {
+    color: rgb(76, 189, 32);
 }
 
-#linkedin:hover {
-    color: rgb(49, 51, 151);
+#tiktok:hover {
+    color: rgb(142, 21, 255);
 }
 
 button:hover {
